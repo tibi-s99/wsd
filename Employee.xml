@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Employee.xslt"?>
+<company>
+<employee mid="M1">
+<id>01</id>
+<name>Rakesh</name>
+<age>45</age>
+<salary>51000</salary>
+<emailid>rakesh@gmail.com</emailid>
+<phonenum>9747636373</phonenum>
+<designation>Accountant</designation>
+</employee>
+<employee mid="M2">
+<id>02</id>
+<name>Priyakshi</name>
+<age>56</age>
+<salary>60000</salary>
+<emailid>priyakshi@gmail.com</emailid>
+<phonenum>8574676756</phonenum>
+<designation>Assistant Manager</designation>
+</employee>
+<employee mid="M3">
+<id>03</id>
+<name>Snehal</name>
+<age>50</age>
+<salary>64000</salary>
+<emailid>snehal@gmail.com</emailid>
+<phonenum>8676756654</phonenum>
+<designation>Accountant</designation>
+</employee>
+<employee mid="M4">
+<id>04</id>
+<name>R.K Nair</name>
+<age>52</age>
+<salary>68000</salary>
+<emailid>rknair@gmail.com</emailid>
+<phonenum>8846454364</phonenum>
+<designation>Manager</designation>
+</employee>
+<employee mid="M5">
+<id>05</id>
+<name>Akansha</name>
+<age>60</age>
+<salary>100000</salary>
+<emailid>akansha@gmail.com</emailid>
+<phonenum>8486356477</phonenum>
+<designation>Managing Director</designation>
+</employee>
+</company>
